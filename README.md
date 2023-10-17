@@ -1,2 +1,4 @@
 # pontius_pilates
-A place for code
+Welcome to my Github! 
+
+You can find some projects developed at univeristy and my hobby projects devloped at slow-pace in my spare time :-) 
